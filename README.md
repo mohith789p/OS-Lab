@@ -5,23 +5,23 @@
 2. Write programs using the following UNIX operating system calls 
       fork, exec, getpid, exit, wait, close, stat, opendir and readdir 
     
-    3. Simulate UNIX commands like cp, ls, grep, etc., 
+3. Simulate UNIX commands like cp, ls, grep, etc., 
     
-    4. Simulate the following CPU scheduling algorithms 
+4. Simulate the following CPU scheduling algorithms 
             a) FCFS 
             b) SJF
             c) Priority
             d) Round Robin 
     
-    5. Control the number of ports opened by the operating system with 
+5. Control the number of ports opened by the operating system with 
             a) Semaphore 
             b) Monitors.
     
-    6. Write a program to illustrate concurrent execution of threads using pthreads library.
+6. Write a program to illustrate concurrent execution of threads using pthreads library.
     
-    7.  Write a program to solve producer-consumer problem using Semaphores.
+7.  Write a program to solve producer-consumer problem using Semaphores.
     
-    8.  Implement the following memory allocation methods for fixed partition 
+   8.  Implement the following memory allocation methods for fixed partition 
             a) First fit
             b) Worst fit 
             c) Best fit 
