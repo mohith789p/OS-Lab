@@ -16,7 +16,7 @@
 - **opendir()**
 - **readdir()**
 
-> [Click here for solutions] (./LAB 02/Program1.c)
+> [Click here](./LAB%2002/Program1.c) for solutions
 
 ## 3. Simulate Common UNIX Commands
 
