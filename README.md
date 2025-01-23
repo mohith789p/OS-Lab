@@ -1,9 +1,8 @@
 # OS-SYLLABUS:
 
+1. Practicing of Basic UNIX Commands. 
 
-    1. Practicing of Basic UNIX Commands. 
-
-    2. Write programs using the following UNIX operating system calls 
+2. Write programs using the following UNIX operating system calls 
       fork, exec, getpid, exit, wait, close, stat, opendir and readdir 
     
     3. Simulate UNIX commands like cp, ls, grep, etc., 
