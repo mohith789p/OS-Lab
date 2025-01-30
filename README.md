@@ -22,6 +22,8 @@
 
 - Simulate commands like `cp`, `ls`, `grep`, etc., to understand how they function internally and implement them programmatically.
 
+> [Click here](./LAB%2003) for solutions
+
 ## 4. Simulate CPU Scheduling Algorithms
 
 - **First-Come, First-Served (FCFS)**
