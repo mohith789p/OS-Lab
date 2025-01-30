@@ -7,6 +7,8 @@ This Folder contains C implementations of basic Unix-like commands, mimicking th
 ### `cat.c`
 - This program mimics the `cat` command.
 - It reads the contents of one or more files and displays them to the standard output.
+- To run the program use:
+  `bash gcc cat.c`
 
 ### `cp.c`
 - This program mimics the `cp` (copy) command.
